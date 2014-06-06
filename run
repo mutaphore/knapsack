@@ -1,0 +1,2 @@
+javac KnapsackDriver.java
+java -Xmx6gb KnapsackDriver
